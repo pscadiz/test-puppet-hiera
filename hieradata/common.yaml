@@ -1,6 +1,7 @@
 ---
 classes:
   - ntp
+  - ec2tagfacts
 
 ntp::servers:
   - ntp1.corp.com
