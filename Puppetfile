@@ -9,3 +9,4 @@ mod 'role',
 mod 'puppetlabs-stdlib', '4.17.0'
 mod 'puppetlabs-concat', '4.0.0'
 mod 'puppetlabs-stdlib', '4.17.0'
+mod 'bryana-ec2tagfacts', '0.2.0'
