@@ -1,0 +1,5 @@
+---
+classes:
+  - profile::release_accounts
+
+profile::release_accounts::ensure: 'present'
